@@ -1,0 +1,25 @@
+div{
+    height:100px;
+    width: 100px;
+    background-color: rgb(15, 129, 228);
+}
+@media (max-height:300px){
+    div{
+        background-color: black;
+    }
+}
+@media (min-height:300px) and (max-height:400px){
+    div{
+        background-color: pink;
+    }
+}
+@media (min-height:400px) and (max-height:600px){
+    div{
+        background-color: yellow;
+    }
+}
+@media (min-height:800px){
+    div{
+        background-color: black;
+    }
+}

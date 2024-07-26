@@ -1,0 +1,9 @@
+div{
+    width: 500px;
+    height: 200px;
+    background-image: url(Planet9_3840x2160.jpg);
+    background-size: cover;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}

@@ -1,0 +1,16 @@
+#box1{
+    color: green;
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    font-size: 10px;
+}
+#box2{
+    color: brown;
+    background-color: pink;
+    height: 50px;
+    width: 30%;
+    font-size: 2em;
+    width: 4rem;
+    
+}

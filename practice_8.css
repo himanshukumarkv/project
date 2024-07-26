@@ -1,0 +1,41 @@
+div{
+    margin-top: 60px;
+}
+#animation{
+    height: 200px;
+    width: 200px;
+    background-color: brown;
+    border-radius: 50%;
+    border: 10px solid blue;
+    border-top: 10px solid black;
+    animation: borderchange 1s ease-in 0s infinite normal;
+    
+
+}
+@keyframes borderchange{
+    from{
+        rotate: 0deg;
+    }
+    to{
+        rotate: 360deg; 
+    }
+}
+#practice{
+    color: black;
+    
+    animation: writtingstyle 10s linear 0s infinite alternate;
+    position: relative;
+   
+}
+
+@keyframes writtingstyle{
+    from{
+        left: 0px;
+
+    }
+    to{
+        left: 1350px;
+
+    }
+}
+

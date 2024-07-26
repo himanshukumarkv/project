@@ -1,0 +1,28 @@
+.novebar{
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+ul{
+    list-style-type: none;
+}
+a{
+    background-color: white;
+    text-decoration: none;
+}
+#outer{
+    width: 800px;
+    height: 500px;
+    background-color: blue;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+#inner{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    align-self: center;
+}

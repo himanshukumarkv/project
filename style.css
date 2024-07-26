@@ -1,0 +1,60 @@
+body{
+    color:rgb(163, 31, 31);
+    background-color: grey;
+}
+button{
+    color:rgb(174, 45, 67);
+    background-color: blueviolet;
+}
+p{
+    color:ghostwhite;
+    font-weight: bolder;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    width: 1000px;
+    height: 300px;
+    background-color: hotpink;
+    border-radius: 10%;
+    padding-top: 50px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding: 50px 20px 30px 22px;
+
+    
+}
+ul{
+    color: rgb(53, 53, 31);
+    
+}
+#one{
+    color: yellow;
+
+}
+.classone{
+    color: rgb(63, 26, 26);
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+#divone{
+    background-color: chartreuse;
+    height: 100px;
+    width: 1000px;
+    border-width: 10px;
+    border-style: dotted;
+    border-color: blue; 
+    border:5px dotted blue;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px; 
+    margin: 10px 20px 30px 40px;
+    margin: 50px; 
+
+}
+#divtwo{
+    border: 5px solid yellow;
+}
+

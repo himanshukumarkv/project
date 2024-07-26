@@ -1,0 +1,26 @@
+body{
+    background-color: blue;
+}
+
+div{
+    background-color: black;
+    height: 60px;
+    border-width: 5%;
+    border-style: solid;
+    border-color: white;
+    
+}
+
+
+a{
+    color:white;
+    margin: 130px;
+}
+#logo{
+    color: yellow;
+    margin-left: 0px;
+    font-size: 25px;
+}
+button{
+    background-color: yellow;
+}
